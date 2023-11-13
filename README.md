@@ -1,6 +1,9 @@
 # web-vuejs-crud-ui
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple CRUD (Create, Read, Update, Delete) application built using Vue.js, Express.js, and MySQL. The application allows you to perform basic CRUD operations on a collection of items using an API created with Express.js and a MySQL database.
+
+## API Server
+The API for this CRUD application is powered by Express.js and uses a MySQL database for storing data. You can find the API server at https://github.com/febrian-andi/express-js-simple-CRUD-MySQL.git.
 
 ## Recommended IDE Setup
 
